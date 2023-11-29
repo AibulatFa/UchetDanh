@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80914958708",
+    "project_id": "uchti-bcc29",
+    "storage_bucket": "uchti-bcc29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80914958708:android:e3f7de02dfcee8943dc421",
+        "android_client_info": {
+          "package_name": "com.example.uchetdanh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80914958708-oep8ftoh1v1pt0798jpagrcono0fmrev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXsDm1rTEiKzRIxhEqQ79PPrq9ghRGMMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80914958708-oep8ftoh1v1pt0798jpagrcono0fmrev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
